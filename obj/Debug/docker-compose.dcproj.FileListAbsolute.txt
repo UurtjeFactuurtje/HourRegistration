@@ -7,3 +7,12 @@ C:\repos\Uurtje-factuurtje\Services\HourRegistration\HourRegistrationAPI\bin\Deb
 C:\repos\Uurtje-factuurtje\Services\HourRegistration\HourRegistrationAPI\bin\Debug\HourRegistrationAPI.pdb
 C:\repos\Uurtje-factuurtje\Services\HourRegistration\HourRegistrationAPI\obj\Debug\docker-compose.dcprojAssemblyReference.cache
 C:\repos\Uurtje-factuurtje\Services\HourRegistration\HourRegistrationAPI\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\repos\HourRegistration\bin\Debug\appsettings.Development.json
+C:\repos\HourRegistration\bin\Debug\appsettings.json
+C:\repos\HourRegistration\bin\Debug\Properties\launchSettings.json
+C:\repos\HourRegistration\bin\Debug\HourRegistrationAPI.exe
+C:\repos\HourRegistration\bin\Debug\HourRegistrationAPI.dll
+C:\repos\HourRegistration\bin\Debug\RabbitMQ.Client.dll
+C:\repos\HourRegistration\bin\Debug\HourRegistrationAPI.pdb
+C:\repos\HourRegistration\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\repos\HourRegistration\obj\Debug\docker-compose.dcproj.CopyComplete
