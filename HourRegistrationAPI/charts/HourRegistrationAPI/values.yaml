@@ -1,0 +1,10 @@
+replicaCount: 1
+image:
+  useImagePullSecrets: false
+  pullPolicy: Always
+service:
+  internalPort: 80
+  externalPort: 80
+ingress:
+  enabled: true
+  basedomain: aksuurtjefactuurtje-dns-c91b824d.hcp.centralus.azmk8s.io
